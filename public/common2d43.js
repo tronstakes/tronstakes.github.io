@@ -48,8 +48,8 @@
   		mixins: [VueTRON],
 		el: '#App',
 		data: {
-            upline: 'TFV2yWqnfhFCLJUuf8H3hLk1TeUUcVgsU6', // upline
-            contract_address: 'TUpVGFEeKVffq8EKNHYBwtUbA4GzLbt4VZ', // contract address
+            upline: 'THkXCUK13MfmtqpHRS4Lc8VorFdAV1Epos', // upline
+            contract_address: 'TQQEbbQP1PQmrYEeu3GhE8LjMa4Rs4N3gA', // contract address
             contract: {
                 invested: 0,
                 withdraw: 0,
