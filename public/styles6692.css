@@ -145,7 +145,7 @@ a.i-btn { color: #FFF; }
 
 .i-modal { position:fixed; top:0; left:0; width:100%; height:100%; background:rgba(0,0,0,0.6); overflow:auto; z-index:100; }
 .i-modal__wrap { position:relative; cursor:default; width:800px; margin:40px auto; background:#fff; border-radius:5px; }
-.i-modal__close { position:absolute; top:3px; right:3px; opacity:0.3; cursor:pointer; padding:20px; background:url("https://tronstakes.github.io/allNFTshop.png") center center no-repeat; z-index:20; }
+.i-modal__close { position:absolute; top:3px; right:3px; opacity:0.3; cursor:pointer; padding:20px; background:url(data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTQiIGhlaWdodD0iMTQiIHZpZXdCb3g9IjAgMCAxNCAxNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+Y2xvc2U8L3RpdGxlPjxnIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlPSIjMDAwIiBmaWxsPSJub25lIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPjxwYXRoIGQ9Ik0xIDFsMTIgMTJNMTMgMUwxIDEzIi8+PC9nPjwvc3ZnPg==) center center no-repeat; z-index:20; }
 .i-modal__close:hover { opacity:0.7; }
 .i-modal__body { padding:20px; }
 
